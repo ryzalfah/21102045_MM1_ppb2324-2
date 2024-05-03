@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632591316620",
+    "project_id": "prakflutterfirebase-c1ff7",
+    "storage_bucket": "prakflutterfirebase-c1ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632591316620:android:5095c5bca8801ac3902da9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH7quLv5FEkv6Zkmvw-wIgsGGI5Vfn5B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
